@@ -1,5 +1,5 @@
 # Transactions fetcher
-## Receives information about new transactions bscscan.com and stores them into PostgreSQL DataBase
+## Receives information about new transactions from bscscan.com and stores them into PostgreSQL DataBase
 
 ### Pre-installation requirements:
  - Python >= 3.9 (3.10 recommended) 
